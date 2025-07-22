@@ -14,5 +14,5 @@ Please edit the `./config.json` file first.
 }
 ```
 
-[![Discord](https://discord.gg/j4jfast)
+[Discord](https://discord.gg/j4jfast)
 
